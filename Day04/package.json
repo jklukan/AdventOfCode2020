@@ -1,0 +1,10 @@
+{
+  "name": "AoC2020_day04",
+  "version": "1.0.0",
+  "description": "Advent of Code 2020 - Day 4",
+  "main": "index.js",
+  "repository": "https://github.com/jklukan/AdventOfCode2020/Day04",
+  "author": "Jeremy Klukan",
+  "license": "MIT",
+  "type": "module"
+}
